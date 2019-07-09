@@ -1,4 +1,4 @@
-package DS_in_Golang
+package main
 
 import (
 	"encoding/json"
